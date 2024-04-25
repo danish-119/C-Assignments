@@ -1,0 +1,1 @@
+cd "/mnt/d_drive/Programming/Code/C Code/Assignments/Lab 12/" && gcc Exercise1.c -o Exercise1 && "/mnt/d_drive/Programming/Code/C Code/Assignments/Lab 12/"Exercise1

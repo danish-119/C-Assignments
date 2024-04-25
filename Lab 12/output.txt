@@ -1,0 +1,10 @@
+Fahad 	 Munir 	13.25
+Usman 	 Khan 	14.50
+Ahmed 	 Ali 	15.50
+Sarmad 	 Shah 	15.50
+Kashif 	 Taqi 	15.82
+Asad 	 Riaz 	16.25
+Anas 	 Karim 	19.50
+Muaaz 	 Nisar 	19.50
+Farooq 	 Fazal 	20.83
+Saim 	 Iqbal 	25.50
